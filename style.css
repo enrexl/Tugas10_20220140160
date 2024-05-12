@@ -26,11 +26,13 @@ body {
 section {
   text-align: center;
   align-items: center;
-  border: solid #2880b9;
+  border: solid #29ba96;
   box-sizing: border-box;
-  margin-right: 20%;
-  margin-left: 20%;
-  padding-bottom: 2%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: auto;
+
+  width: 80%;
 
   padding-top: 20px;
   border-radius: 20px;
@@ -41,6 +43,7 @@ section {
   text-align: center;
   padding-left: 2%;
   padding-right: 2%;
+  padding-bottom: 2%;
 }
 
 .pendaftaran,

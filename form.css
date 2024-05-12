@@ -5,6 +5,8 @@ body {
 }
 
 form {
+  margin-top: 5px;
+  margin-left: 5px;
   width: 100px;
 }
 
@@ -14,7 +16,10 @@ legend {
 
 .back,
 a {
+  font-size: 15px;
+  align-items: center;
   margin-top: 5px;
+  margin-bottom: 5px;
   background-color: #2880b9;
   color: white;
   text-decoration: none;
@@ -22,4 +27,11 @@ a {
   height: 40px;
   border: transparent;
   border-radius: 5px;
+}
+
+.submit {
+  width: 100px;
+  height: 40px;
+  color: white;
+  background-color: #2952ba;
 }
